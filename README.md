@@ -79,12 +79,23 @@ En cas d'une fin de partie on demande si les joueurs veulent rejouer une partie.
     
    ## Exemples d'utilisation
    
-   Renseigner ou le prénom des joueurs:
+   Renseigner ou non le prénom des joueurs:
 
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+    
+    Sans Prénoms:
+    
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introPasDeNomsJoueurs.jpg) 
+    
+    Erreur Réponse Prénoms des joueurs:
+    
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/erreurR%C3%A9ponsePr%C3%A9nom.jpg) 
+    
+    Erreur de la colonne renseignée :
+    
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gestionErreurColonne.jpg) 
+    
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
