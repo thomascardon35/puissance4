@@ -76,7 +76,18 @@ En cas d'une fin de partie on demande si les joueurs veulent rejouer une partie.
     Taper Y ou y puis sur Entrée pour recommencer une partie 
 
     Taper N ou n puis taper sur Entrée ou taper directement sur Entrée pour refuser la nouvelle partie.
+    
+   ## Exemples d'utilisation
+   
+   Renseigner ou le prénom des joueurs:
 
-
-
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
