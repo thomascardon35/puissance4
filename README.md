@@ -97,14 +97,32 @@ En cas d'une fin de partie on demande si les joueurs veulent rejouer une partie.
     
     Gain du jeu : alignement des jetons :
     
+    Diagonale :
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuDiagonale1.jpg) 
+    Diagonale : 
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuDiagonale2.jpg) 
+    
+    Horizontale :
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuHorizontale.jpg) 
+    Verticale :
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuVerticale.jpg) 
     
     Le cas du Match nul : 
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/matchNul.jpg) 
     
+    Acceptation d'une nouvelle partie : 
     
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/nouvellePartieOui.jpg) 
     
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+    Refus d'une nouvelle partie : 
+    
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/nouvellePartieOui.jpg) 
+    
+    Erreur dans la réponse renseignée à la question sur la nouvelle partie : 
+    
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/nouvellePartieOui.jpg) 
