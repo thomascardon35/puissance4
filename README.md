@@ -95,10 +95,16 @@ En cas d'une fin de partie on demande si les joueurs veulent rejouer une partie.
     
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gestionErreurColonne.jpg) 
     
+    Gain du jeu : alignement des jetons :
     
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
- 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuDiagonale1.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuDiagonale2.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuHorizontale.jpg) 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/gainJeuVerticale.jpg) 
+    
+    Le cas du Match nul : 
+ 	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/matchNul.jpg) 
+    
+    
+    
  	![Intro Noms des joueurs](https://github.com/thomascardon35/puissance4/blob/main/img/introNomsJoueurs.jpg) 
